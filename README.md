@@ -2,15 +2,15 @@
 
 Developer | Beginner Python Dev | Building useful app
 
-I'm a developer who enjoys building reliable backends and useful apps. I focus on clean code, practical automation, and learning by building.
+Hey! I love shipping small, useful apps and learning by doing. I care about readable code, helpful automation, and making things that actually get used.
 
 ## About me
 
-- 🔭 Currently: working on projects that solve real-world problems and improve developer experience
-- 🌱 Learning: Python, backend patterns, and DevOps practices
-- 👯 Interested in collaborating on: open-source tooling, web apps, developer productivity
-- 💬 Ask me about: JavaScript/TypeScript, Node.js, Go, testing, CI/CD
-- 📫 Contact: kingfelixotu@gmail.com
+- 🔭 Right now: building projects that solve everyday problems and make life easier for devs
+- 🌱 Learning: Python and backend patterns — getting better every day
+- 👯 Up for collabs on: web apps, open-source tools, and anything fun to build
+- 💬 Ask me about: JS/TS, Node, Go, testing, and CI/CD
+- 📫 Reach me: kingfelixotu@gmail.com
 
 ## Tech stack
 
@@ -29,7 +29,4 @@ JavaScript · TypeScript · Python · Node.js · Go · Docker · PostgreSQL · G
 
 ---
 
-If you’d like, I can:
-- Replace the contact/email/website with other values you provide.
-- Add badges (LinkedIn, Twitter, build status) or change theme (light/dark).
-- Write updates directly into the repo if you want further edits.
+If you want more changes—swap wording, add badges, or feature projects—tell me and I’ll update it.
