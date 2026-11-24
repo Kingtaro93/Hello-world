@@ -1,15 +1,12 @@
 import sys
 
-MESSAGE = "Hello, World!"
-
-
 def greet(name: str = "World") -> str:
-    return f"Hello, {name}!"
+    return "Hello, " + name + "!"
 
 
 def main() -> int:
     target = sys.argv[1] if len(sys.argv) > 1 else "World"
-    sys.stdout.write(f"{greet(target)}\n")
+    sys.stdout.write("Hello, " + target + "!\n")
     return 0
 
 
